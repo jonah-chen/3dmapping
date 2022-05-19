@@ -1,0 +1,8 @@
+*.ply
+/.vscode
+*.png
+/CMakeCache.txt
+/CMakeFiles
+/build
+/cmake_install.cmake
+/Makefile
